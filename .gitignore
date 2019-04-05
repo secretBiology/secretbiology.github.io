@@ -1,9 +1,4 @@
-coverage/
-html-report/
-node_modules/
-typings/
-**/*npm-debug.log.*
-**/*yarn-error.log.*
-.idea/
-.DS_Store
-.npmrc
+_site
+.sass-cache
+Gemfile.lock
+*.gem
